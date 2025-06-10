@@ -1,32 +1,68 @@
-# Hi, I'm Yash Suthar 👋
+<h1 align="center">Hi there, I'm Yash Suthar 👋</h1>
+<h3 align="center">🚀 First-Year IT Student | 👨‍💻 Developer | 🛠️ Tech Explorer</h3>
 
-🎓 First Year IT Student at DDIT Nadiad  
-💻 Tech enthusiast who loves coding and building cool stuff  
-📬 **Email:** sutharyash4311@gmail.com  
-🔗 **LinkedIn:** [Yash Suthar](https://www.linkedin.com/in/yash-suthar-3412a2310)
-
----
-
-## 🛠️ Tech Stack
-
-![C](https://img.shields.io/badge/C-292C33?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JS (Beginner)](https://img.shields.io/badge/JS%20(Beginner)-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=I'm+a+First+Year+IT+Student;I+Love+Coding+%26+Creating;Tech+is+my+Playground!" alt="Typing SVG" />
+</p>
 
 ---
 
-## 📊 My GitHub Stats
+### 🌟 About Me
 
-![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yash20061&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash20061&layout=compact&theme=tokyonight)
+- 🎓 Pursuing B.Tech in IT at **DDIT, Nadiad**
+- 💡 Passionate about building useful software, exploring algorithms.
+- 🧠 Currently exploring **Data Structures**, **Competitive Programming**, and **Web Development**
+- 🎯 Goal: To build my own **chess engine** !
 
 ---
 
-> 🚀 Still learning. Still building. Always curious.  
-> 🌟 The journey just began — and I’m all in.
+### 📬 Connect with Me
 
+[![Email](https://img.shields.io/badge/Email-sutharyash4311@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sutharyash4311@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yash%20Suthar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-suthar-3412a2310)
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,qt,git,vscode" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yash20061&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash20061&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+</div>
+
+---
+
+### 🧩 Featured Projects
+
+- 🎯 [**ThinkSquare** - JavaScript Chess Game (WIP)](https://yash20061.github.io/ThinkSquare/)
+  - A fun project to try out chess logic and bots. Still under construction!
+  - ⚡ Next Goals:
+    - Add 2-player mode ♟️
+    - Enhance bot with Minimax + evaluation 🧠
+    - Build my custom Chess Engine 💥
+
+---
+
+### 💬 Quote
+
+> *"Still learning. Still building. Always curious."*  
+> *"The journey just began — and I’m all in."*
+
+---
+
+### ⚡ Fun Fact
+
+```bash
+while(alive) {
+   learn();
+   build();
+   repeat();
+}
