@@ -2,7 +2,7 @@
 <h3 align="center"> Second-Year IT Student | 👨‍💻 Developer | 🛠️ Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=I'm+a+First+Year+IT+Student;I+Love+Coding+%26+Creating;Tech+is+my+Playground!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=I'm+a+Second+Year+IT+Student;I+Love+Coding+%26+Creating;Tech+is+my+Playground!" alt="Typing SVG" />
 </p>
 
 ---
